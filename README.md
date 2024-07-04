@@ -4,7 +4,7 @@
 
 ### 프로젝트 개요
 
-프로젝트의 목표는 Amazon CloudTrail 로그를 활용하여 AWS 보안을 강화하는 자동화 시스템 구축입니다. 이를 위해 Boto3 라이브러리를 활용하여 AWS 리소스를 프로그래밍 방식으로 관리하고, Amazon Lambda와 EventBridge를 사용해 특정 이벤트에 자동으로 대응하는 시스템을 개발했습니다.
+Amazon CloudTrail 로그를 활용하여 AWS 보안을 강화하는 자동화 시스템을 구축했습니다. SDK인 Boto3를 활용하여 AWS 리소스를 프로그래밍 방식으로 관리하고, Amazon Lambda와 EventBridge를 사용해 특정 이벤트에 자동으로 대응하는 시스템입니다.
 
 #### 프로젝트 요약
 
